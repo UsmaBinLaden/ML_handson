@@ -1,0 +1,4 @@
+this repository contains hands-on 
+machin learning projects focused on 
+data analysis, EDA (exploratory Data Analysis),and prediction models using real-world
+datasets
